@@ -18,6 +18,7 @@ typedef struct {
     char **cache;
     int cacheIndex;
 	spAttachmentLoader* attachmentLoader;
+	const char* const error;
 } spSkeletonBinary;
 
 spSkeletonData *spSkeletonBinary_readSkeletonData(spSkeletonBinary* self);
