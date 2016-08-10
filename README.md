@@ -10,7 +10,7 @@ spine runtime binary for c
 `#include <spine/SkeletonBinary.h>`
 
 # error known
-*Draw order timeline & SP_ATTACHMENT_MESH  would crash
+* Draw order timeline & SP_ATTACHMENT_MESH  would crash
   
 # addition  class  (cash  for spine)
-*use  'CSpineObj' class instead of ‘spine::SkeletonAnimation’
+* use  'CSpineObj' class instead of ‘spine::SkeletonAnimation’
